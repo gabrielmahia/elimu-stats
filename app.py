@@ -89,4 +89,4 @@ with tab2:
         st.markdown(f'<div class="e-card">{result.replace(chr(10),"<br>")}</div>', unsafe_allow_html=True)
 
 st.markdown("---")
-st.caption("📚 Elimu Stats v1.0 | Data: DEMO synthetic | NEMIS: nemis.go.ke | CC BY-NC-ND 4.0")
+st.caption("📚 Elimu Stats v1.0 | Data: DEMO synthetic | NEMIS: nemis.go.ke | MIT")
